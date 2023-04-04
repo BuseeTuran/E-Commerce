@@ -1,5 +1,16 @@
 # Getting Started with Create React App
 
+![Server is up](https://user-images.githubusercontent.com/126778031/229896512-44911672-4c8f-4682-973e-7cc2e94b338a.PNG)
+![Ekran görüntüsü 2023-04-04 192926](https://user-images.githubusercontent.com/126778031/229896538-de1c33e6-d606-40b3-81eb-26d28a2e577e.png)
+![Ekran Alıntısı](https://user-images.githubusercontent.com/126778031/229896584-1fc9483f-d850-41e7-9704-e871a45c47db.PNG)
+![1](https://user-images.githubusercontent.com/126778031/229896620-d1a39f27-7d8c-4244-b518-585fd6df8a55.PNG)
+![2](https://user-images.githubusercontent.com/126778031/229896642-156b451f-90e0-4e8d-a604-ac495bc94239.PNG)
+![3](https://user-images.githubusercontent.com/126778031/229896658-5ad0ed5e-319f-4512-af0e-c62586228967.PNG)!
+[4](https://user-images.githubusercontent.com/126778031/229896667-0c3dbac7-997f-4e1c-a146-abd5c6848944.PNG)
+![5](https://user-images.githubusercontent.com/126778031/229896695-ec7dc0fc-133b-4e70-b468-51dbaca1ed6e.PNG)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
