@@ -1,0 +1,36 @@
+.nav{
+    padding:10px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: groove 2px #838897;
+    line-height: 4px;
+    align-items: center;
+}
+.nav .left {
+    display: flex;
+    margin-left: 15px;
+}
+.nav .left .menu {
+    display: flex;
+    margin-left: 60px;
+}
+.nav .left .menu li a {
+    color: #e2197e;
+    text-decoration: none;
+    font-size: 2rem;
+    padding: 3px 16px;
+    display: block;
+    font-size: 20px;
+    font-weight: bold;
+}
+.nav .left .menu li a:hover {
+    color: rgb(143, 19, 95);
+}
+
+.nav .right a:first-child{
+    margin-right: 5px;
+}
+
+.logo {
+    font-weight: bold;
+}
